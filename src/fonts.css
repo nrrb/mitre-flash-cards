@@ -1,0 +1,7 @@
+/* Self-hosted fonts, latin subset */
+@font-face { font-family: 'Sora'; font-weight: 600; font-display: swap; src: url('./assets/fonts/sora-600-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 400; font-display: swap; src: url('./assets/fonts/inter-400-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 500; font-display: swap; src: url('./assets/fonts/inter-500-latin.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 600; font-display: swap; src: url('./assets/fonts/inter-600-latin.woff2') format('woff2'); }
+@font-face { font-family: 'JetBrains Mono'; font-weight: 400; font-display: swap; src: url('./assets/fonts/jetbrains-mono-400-latin.woff2') format('woff2'); }
+@font-face { font-family: 'JetBrains Mono'; font-weight: 500; font-display: swap; src: url('./assets/fonts/jetbrains-mono-500-latin.woff2') format('woff2'); }
